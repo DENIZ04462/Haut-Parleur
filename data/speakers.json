@@ -1,0 +1,25 @@
+{
+    "SPH-250CTC": {
+      "nom": "Monacor SPH-250CTC",
+      "puissance": "2 x 100 W RMS / 2 x 150 W MAX",
+      "impedance": "2 x 8 Ω",
+      "frequence": "20 Hz – 3500 Hz",
+      "sensibilite": "91 dB/W/m",
+      "diametre": "Ø 258 mm",
+      "profondeur": "123 mm",
+      "poids": "3,8 kg",
+      "membrane": "Fibre de carbone",
+      "saladier": "Aluminium moulé",
+      "bobine": "Double bobine Ø 50 mm",
+      "aimant": "Ferrite Ø 145 mm, 1,2 kg",
+      "qts": "0,25",
+      "fs": "20 Hz",
+      "xmax": "±4,5 mm",
+      "cms": "0,98 mm/N",
+      "mms": "70 g",
+      "bl": "9,6 Tm",
+      "vas": "220 L",
+      "sd": "343 cm²",
+      "image": "https://www.monacor.com/fileadmin/_processed_/csm_SPH-250CTC_1_0f3b9e2b3d.jpg"
+    }
+  }  
